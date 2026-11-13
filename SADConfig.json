@@ -1,0 +1,7 @@
+{
+  "COM": "COM3",
+  "RATE": 115200,
+  "DatabaseFolder": "SAD",
+  "HRLFile": "Dron_Naval_1.hrl",
+  "GHTFile": "Dron_Naval_1.ght"
+}
